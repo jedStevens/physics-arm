@@ -1,0 +1,153 @@
+{
+    "accessors" : [
+        {
+            "bufferView" : 0, 
+            "componentType" : 5123, 
+            "count" : 3276, 
+            "max" : [
+                754
+            ], 
+            "min" : [
+                0
+            ], 
+            "type" : "SCALAR"
+        }, 
+        {
+            "bufferView" : 1, 
+            "componentType" : 5126, 
+            "count" : 755, 
+            "max" : [
+                2.1550300121307373, 
+                5.8582024574279785, 
+                2.301908016204834
+            ], 
+            "min" : [
+                -2.1422457695007324, 
+                -0.9404836893081665, 
+                -0.9821311831474304
+            ], 
+            "type" : "VEC3"
+        }, 
+        {
+            "bufferView" : 2, 
+            "componentType" : 5126, 
+            "count" : 755, 
+            "max" : [
+                0.9989928603172302, 
+                0.9977111220359802, 
+                0.9986266493797302
+            ], 
+            "min" : [
+                -0.999237060546875, 
+                -0.999786376953125, 
+                -0.9965208768844604
+            ], 
+            "type" : "VEC3"
+        }, 
+        {
+            "bufferView" : 3, 
+            "componentType" : 5126, 
+            "count" : 755, 
+            "max" : [
+                1.0, 
+                0.9994919896125793, 
+                1.0, 
+                1.0
+            ], 
+            "min" : [
+                -1.0, 
+                -0.9968416094779968, 
+                -1.0, 
+                1.0
+            ], 
+            "type" : "VEC4"
+        }, 
+        {
+            "bufferView" : 4, 
+            "componentType" : 5126, 
+            "count" : 755, 
+            "max" : [
+                0.9647012948989868, 
+                0.9588016830384731
+            ], 
+            "min" : [
+                0.027866512537002563, 
+                0.03601086139678955
+            ], 
+            "type" : "VEC2"
+        }
+    ], 
+    "asset" : {
+        "generator" : "Khronos Blender glTF 2.0 exporter", 
+        "version" : "2.0"
+    }, 
+    "bufferViews" : [
+        {
+            "buffer" : 0, 
+            "byteLength" : 6552, 
+            "byteOffset" : 0, 
+            "target" : 34963
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 9060, 
+            "byteOffset" : 6552, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 9060, 
+            "byteOffset" : 15612, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 12080, 
+            "byteOffset" : 24672, 
+            "target" : 34962
+        }, 
+        {
+            "buffer" : 0, 
+            "byteLength" : 6040, 
+            "byteOffset" : 36752, 
+            "target" : 34962
+        }
+    ], 
+    "buffers" : [
+        {
+            "byteLength" : 42792, 
+            "uri" : "boxing_glove.bin"
+        }
+    ], 
+    "meshes" : [
+        {
+            "name" : "Cube", 
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "NORMAL" : 2, 
+                        "POSITION" : 1, 
+                        "TANGENT" : 3, 
+                        "TEXCOORD_0" : 4
+                    }, 
+                    "indices" : 0
+                }
+            ]
+        }
+    ], 
+    "nodes" : [
+        {
+            "mesh" : 0, 
+            "name" : "Cube"
+        }
+    ], 
+    "scene" : 0, 
+    "scenes" : [
+        {
+            "name" : "Scene", 
+            "nodes" : [
+                0
+            ]
+        }
+    ]
+}
